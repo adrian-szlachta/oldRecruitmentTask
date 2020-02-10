@@ -1,0 +1,9 @@
+#map {
+    height: 350px;
+    width: 100%;
+}
+.btn-link {
+    font-weight: 600;
+    color: #000000;
+    font-size: 21px;
+}
